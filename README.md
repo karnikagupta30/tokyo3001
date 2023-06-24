@@ -1,3 +1,4 @@
+![logo](https://github.com/tokyo3001/tokyo3001/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm Karnika Gupta</h1>
 <h3 align="center">A passionate Front-end Developer from India</h3>
 

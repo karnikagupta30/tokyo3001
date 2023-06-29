@@ -22,6 +22,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What are the different types of hooks in React?](https://medium.com/@karnikagupta1830/what-are-the-different-types-of-hooks-in-react-470fdeb86b9?source=rss-13a44c4055be------2)
 - [React Hook](https://medium.com/womenintechnology/react-hook-d4ea33c9a853?source=rss-13a44c4055be------2)
 <!-- BLOG-POST-LIST:END -->
 

@@ -22,6 +22,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Essential React Best Practices for Clean and Efficient Code](https://medium.com/womenintechnology/10-essential-react-best-practices-for-clean-and-efficient-code-551caf6b9439?source=rss-13a44c4055be------2)
+- [What is Redux?](https://medium.com/@karnikagupta1830/what-is-redux-e399d5a9488c?source=rss-13a44c4055be------2)
 - [What are the different types of hooks in React?](https://medium.com/@karnikagupta1830/what-are-the-different-types-of-hooks-in-react-470fdeb86b9?source=rss-13a44c4055be------2)
 - [React Hook](https://medium.com/womenintechnology/react-hook-d4ea33c9a853?source=rss-13a44c4055be------2)
 <!-- BLOG-POST-LIST:END -->

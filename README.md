@@ -22,6 +22,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a React App from Scratch: A Step-by-Step Guide](https://medium.com/womenintechnology/building-a-react-app-from-scratch-a-step-by-step-guide-2a42a4be41fc?source=rss-13a44c4055be------2)
 - [10 Essential React Best Practices for Clean and Efficient Code](https://medium.com/womenintechnology/10-essential-react-best-practices-for-clean-and-efficient-code-551caf6b9439?source=rss-13a44c4055be------2)
 - [What is Redux?](https://medium.com/womenintechnology/what-is-redux-e399d5a9488c?source=rss-13a44c4055be------2)
 - [What are the different types of hooks in React?](https://medium.com/womenintechnology/what-are-the-different-types-of-hooks-in-react-470fdeb86b9?source=rss-13a44c4055be------2)

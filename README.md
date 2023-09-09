@@ -22,11 +22,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering React Router: Navigating Your React Applications](https://medium.com/womenintechnology/mastering-react-router-navigating-your-react-applications-4972167e91a6?source=rss-13a44c4055be------2)
 - [Server-Side Rendering with React](https://medium.com/womenintechnology/server-side-rendering-with-react-51495c58b9ee?source=rss-13a44c4055be------2)
 - [Mastering Component Composition in React: A Comprehensive Guide](https://medium.com/@karnikagupta1830/mastering-component-composition-in-react-a-comprehensive-guide-eb1ef8a740a3?source=rss-13a44c4055be------2)
 - [Building a React App from Scratch: A Step-by-Step Guide](https://medium.com/womenintechnology/building-a-react-app-from-scratch-a-step-by-step-guide-2a42a4be41fc?source=rss-13a44c4055be------2)
 - [10 Essential React Best Practices for Clean and Efficient Code](https://medium.com/womenintechnology/10-essential-react-best-practices-for-clean-and-efficient-code-551caf6b9439?source=rss-13a44c4055be------2)
-- [What is Redux?](https://medium.com/womenintechnology/what-is-redux-e399d5a9488c?source=rss-13a44c4055be------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

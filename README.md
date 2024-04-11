@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tokyo3001&label=Profile%20views&color=0e75b6&style=flat" alt="tokyo3001" /> </p>
 
-- 🔭 I’m currently working on [multi-step-form](https://multi-step-form-woad-ten.vercel.app/)
+- 🔭 I’m currently working at [Voizo.ai](https://www.voizo.ai/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://kg-main-portfolio.vercel.app/](https://kg-main-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@karnikagupta1830](https://medium.com/@karnikagupta1830)
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind, Next.js**
+- 💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind, Next.js, NodeJS**
 
 - 📫 How to reach me **karnikagupta1830@gmail.com**
 

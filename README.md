@@ -22,11 +22,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking React Router and Redux with Advanced Hooks: A Developer’s Handbook](https://medium.com/womenintechnology/unlocking-react-router-and-redux-with-advanced-hooks-a-developers-handbook-116fd5330186?source=rss-13a44c4055be------2)
 - [Callbacks vs. Promises vs. Async/Await: Detailed Comparison](https://medium.com/womenintechnology/callbacks-vs-promises-vs-async-await-detailed-comparison-d1f6ae7c778a?source=rss-13a44c4055be------2)
 - [Mastering React with Typescript: It’s Benefits and Importance](https://medium.com/womenintechnology/mastering-react-with-typescript-its-benefits-and-importance-85cbc783a85a?source=rss-13a44c4055be------2)
 - [Mastering React Router: Navigating Your React Applications](https://medium.com/womenintechnology/mastering-react-router-navigating-your-react-applications-4972167e91a6?source=rss-13a44c4055be------2)
 - [Server-Side Rendering with React](https://medium.com/womenintechnology/server-side-rendering-with-react-51495c58b9ee?source=rss-13a44c4055be------2)
-- [Mastering Component Composition in React: A Comprehensive Guide](https://medium.com/@karnikagupta1830/mastering-component-composition-in-react-a-comprehensive-guide-eb1ef8a740a3?source=rss-13a44c4055be------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
